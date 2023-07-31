@@ -12,7 +12,7 @@ git init
 ## Usage
 
 ```cpp
-cout << "u r a silly goose." << endl>> 
+cout << "u r a silly goose." << endl;
 ```
 
 ## using teh files:
